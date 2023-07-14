@@ -5,9 +5,7 @@
   </div>
 
   <div class="hero-text">
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima facere, eos molestias, illum fugit natus quae,
-      nam
-      sit pariatur consectetur aliquam dolorem? Alias, id nisi!</p>
+    <p>Bonjour et bienvenue sur le site des poulpy's dev. Suivez les boutons pour une visite guidée !</p>
   </div>
 
   <div>
