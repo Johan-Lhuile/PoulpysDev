@@ -9,9 +9,9 @@
 
 <body>
   <?php include './INCLUDES/header.php'; ?>
-  <?php include './INCLUDES/card.php'; ?>
   <?php include './INCLUDES/hero.php'; ?>
   <?php include './INCLUDES/team.php'; ?>
+  <?php include './INCLUDES/card.php'; ?>
   <?php include './INCLUDES/about_us.php'; ?>
   <?php include './INCLUDES/projet.php'; ?>
   <?php include './INCLUDES/footer.php'; ?>
