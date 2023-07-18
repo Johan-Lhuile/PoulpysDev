@@ -1,5 +1,5 @@
 <div class="title">
-  <h2>Meet our Team</h2>
+  <h2>L'équipe</h2>
 </div>
 
 
