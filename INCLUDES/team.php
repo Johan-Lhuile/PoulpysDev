@@ -1,7 +1,6 @@
-<div id="team">
-  <div class="title">
-    <h2>Meet our Team</h2>
-  </div>
+<div class="title">
+  <h2>L'équipe</h2>
+</div>
 
 
   <div class="photos">

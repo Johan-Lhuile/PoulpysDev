@@ -1,3 +1,3 @@
 <footer>
-  <p> &#169 Poulpy's Dev Team &#8226 <br>All rights reserved.</p>
+  <p> &#169 Poulpy's Dev Project &#8226 <br>Tout droits réservés</p>
 </footer>
