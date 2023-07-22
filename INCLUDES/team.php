@@ -1,4 +1,4 @@
-<div class="title">
+<div class="title" id="team">
   <h2>L'équipe</h2>
 </div>
 

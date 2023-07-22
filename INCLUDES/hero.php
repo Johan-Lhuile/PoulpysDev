@@ -1,4 +1,4 @@
-<div class="hero">
+<div class="hero" id="hero">
 
   <div class="hero-container">
 
@@ -11,7 +11,7 @@
       chacun des développeurs que vous retrouverez sur la page Développeurs.
     </p>
 
-    <div class="icon-arrow"><img src="./IMG/ArrowUP_ICO.svg" alt="Fleche vers le bas"></div>
+    <div class="icon-arrow"><img src="./IMG/icone_arrow_up.svg" alt="Veuillez défilez vers le bas"></div>
 
   </div>
 </div>

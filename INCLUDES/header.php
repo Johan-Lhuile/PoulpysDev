@@ -1,15 +1,15 @@
 <nav class="navbar">
   <ul>
     <li>
-      <a href="../INCLUDES/hero.php" class="icon"><img src="./IMG/LogoOctopus_ICO.svg" alt="Logo"></a>
+      <a href="index.php#hero" class="icon"><img src="./IMG/icone_logo_octopus.svg" alt="Logo"></a>
     </li>
     <li>
-      <a href="../INCLUDES/header.php" class="icon"><img src="./IMG/Home_ICO.svg" alt="Home"></a>
+      <a href="index.php#hero" class="icon"><img src="./IMG/icone_home.svg" alt="Home"></a>
     </li>
     <li>
-      <a href="../INCLUDES/team.php" class="icon"><img src="./IMG/Developers_ICO.svg" alt="Team"></a>
+      <a href="index.php#team" class="icon"><img src="./IMG/icone_team.svg" alt="Team"></a>
     </li>
-    <a href="../INCLUDES/projet.php" class="icon"><img src="./IMG/Projects_ICO.svg" alt="Projets"></a>
+    <a href="index.php#project" class="icon"><img src="./IMG/icone_projets.svg" alt="Projets"></a>
     </li>
   </ul>
 </nav>
