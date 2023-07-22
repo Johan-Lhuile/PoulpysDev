@@ -7,41 +7,75 @@
   <title>Document</title>
   <link href="../CSS/team.css" rel="stylesheet">
   <style>
-  @import url('https://fonts.googleapis.com/css2?family=Changa+One&display=swap');
-</style>
+    @import url('https://fonts.googleapis.com/css2?family=Changa+One&display=swap');
+  </style>
 </head>
 
 <body>
   <div class="title">
-    <h2>L'équipe</h2>
+    <h1>L'équipe</h1>
   </div>
 
 
   <div class="photos">
 
-    <div class="column1">
-      <img src="../IMG/Alexis.JPG" alt="Photo d'Alexis DELATTRE">
-      <img src="../IMG/Alvin.JPG" alt="Photo d'Alvin COMUCE">
-      <img src="../IMG/Johan.JPG" alt="Photo de Johan LHUILE">
-      <img src="../IMG/Logan.JPG" alt="Photo de Logan">
+    <div>
+      <img class="one" src="../IMG/Alexis.JPG" alt="Photo d'Alexis DELATTRE">
     </div>
-    
-
-    <div class="column2">
-      <p><br><br></p>
-      <img src="../IMG/ClÇment.JPG" alt="Photo de Clément HAMIMI">
-      <img src="../IMG/Damien.JPG" alt="Photo de Damien HORVAT">
-      <img src="../IMG/Mohamad.JPG" alt="Photo de Mohammad NAKSHO">
+    <div></div>
+    <div>
+      <img class="two" src="../IMG/Alvin.JPG" alt="Photo d'Alvin COMUCE">
     </div>
-
-    <div class="column3">
-      <img src="../IMG/Alexy.JPG" alt="Photo de Alexis DELPLACE">
-      <img src="../IMG/Imäne.JPG" alt="Photo de Imène HAMZAOUI">
-      <img src="../IMG/Jim.JPG" alt="Photo de Jimmy DARRAS">
-      <img src="../IMG/JB.JPG" alt="Photo de J-B AUBERT">
+    <div></div>
+    <div>
+      <img class="three" src="../IMG/Johan.JPG" alt="Photo de Johan LHUILE">
+    </div>
+    <div></div>
+    <div>
+      <img class="four" src="../IMG/Logan.JPG" alt="Photo de Logan">
+    </div>
+    <div></div>
+    <div>
+      <img class="five" src="../IMG/ClÇment.JPG" alt="Photo de Clément HAMIMI">
+    </div>
+    <div></div>
+    <div>
+      <img class="six" src="../IMG/Damien.JPG" alt="Photo de Damien HORVAT">
+    </div>
+    <div></div>
+    <div>
+      <img class="seven" src="../IMG/Mohamad.JPG" alt="Photo de Mohammad NAKSHO">
+    </div>
+    <div></div>
+    <div>
+      <img class="eight" src="../IMG/Alexy.JPG" alt="Photo de Alexis DELPLACE">
+    </div>
+    <div></div>
+    <div>
+      <img class="nine" src="../IMG/Imäne.JPG" alt="Photo de Imène HAMZAOUI">
+    </div>
+    <div></div>
+    <div>
+      <img class="ten" src="../IMG/Jim.JPG" alt="Photo de Jimmy DARRAS">
+    </div>
+    <div></div>
+    <div>
+      <img class="eleven" src="../IMG/JB.JPG" alt="Photo de J-B AUBERT">
     </div>
 
   </div>
+
+  <div class="poulpyDream">
+    <svg width="164" height="99" viewBox="0 0 164 99" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M1.88547 49.5466C1.88307 46.4446 3.13269 43.4359 5.42527 41.024C7.71785 38.612 10.9143 36.943 14.48 36.2962C14.067 33.7052 14.5446 31.0679 15.855 28.7028C17.1655 26.3377 19.2529 24.3461 21.8649 22.9686C24.4769 21.591 27.5019 20.8865 30.5744 20.94C33.6469 20.9936 36.6354 21.8029 39.179 23.2703C38.9717 20.5262 39.7513 17.7934 41.4143 15.4355C43.0772 13.0776 45.5445 11.2064 48.488 10.0709C51.4315 8.93536 54.7116 8.58933 57.8919 9.07885C61.0722 9.56836 64.0019 10.8702 66.2913 12.8112C67.2116 9.95698 69.2082 7.43897 71.9741 5.64425C74.7401 3.84953 78.1223 2.87744 81.6009 2.87744C85.0794 2.87744 88.4616 3.84953 91.2276 5.64425C93.9936 7.43897 95.9902 9.95698 96.9105 12.8112C99.1944 10.8642 102.123 9.55706 105.303 9.06442C108.484 8.57178 111.766 8.91716 114.71 10.0544C117.653 11.1916 120.119 13.0664 121.777 15.4282C123.434 17.7899 124.205 20.5259 123.985 23.2703C126.634 21.7432 129.76 20.9273 132.96 20.9282C135.233 20.9175 137.482 21.3244 139.554 22.121C141.626 22.9177 143.471 24.0853 144.964 25.5442C146.457 27.0032 147.562 28.719 148.204 30.5746C148.846 32.4302 149.01 34.3818 148.684 36.2962C152.307 36.9644 155.542 38.688 157.831 41.1694C160.119 43.6507 161.318 46.734 161.22 49.8871C161.121 53.0402 159.732 56.0651 157.292 58.4396C154.852 60.8142 151.514 62.3894 147.854 62.8932C149.085 65.5926 149.266 68.5564 148.371 71.3496C147.476 74.1429 145.552 76.6185 142.882 78.413C140.211 80.2076 136.935 81.2267 133.534 81.3206C130.133 81.4145 126.786 80.5784 123.985 78.9349C124.239 81.7854 123.422 84.6309 121.65 87.06C119.878 89.489 117.244 91.3757 114.129 92.4472C111.014 93.5188 107.58 93.7197 104.322 93.0209C101.064 92.3221 98.1511 90.7598 96.0055 88.5599C94.737 90.907 92.7039 92.8955 90.1475 94.2893C87.591 95.6832 84.6184 96.4241 81.582 96.4241C78.5457 96.4241 75.573 95.6832 73.0166 94.2893C70.4601 92.8955 68.4271 90.907 67.1586 88.5599C65.0129 90.7598 62.1005 92.3221 58.8425 93.0209C55.5844 93.7197 52.1496 93.5188 49.0346 92.4472C45.9196 91.3757 43.2859 89.489 41.5142 87.06C39.7425 84.6309 38.9247 81.7854 39.179 78.9349C36.3771 80.5649 33.036 81.39 29.6438 81.2895C26.2517 81.1891 22.9861 80.1684 20.3242 78.3766C17.6622 76.5848 15.7434 74.1157 14.848 71.3301C13.9527 68.5445 14.1276 65.5882 15.3473 62.8932C11.6032 62.3966 8.19027 60.7796 5.7225 58.3329C3.25472 55.8862 1.89412 52.7706 1.88547 49.5466Z" stroke="#A5E4FF" stroke-width="4.16667" stroke-linecap="round" stroke-linejoin="round" />
+    </svg>
+    <svg width="31" height="27" viewBox="0 0 31 27" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M19.1078 6.19523C21.458 6.19523 23.7119 6.98957 25.3738 8.40352C27.0356 9.81746 27.9692 11.7352 27.9692 13.7348C27.9692 15.7344 27.0356 17.6522 25.3738 19.0661C23.7119 20.48 21.458 21.2744 19.1078 21.2744C18.0277 22.6186 16.4632 23.6276 14.6502 24.1492C12.8373 24.6708 10.8742 24.6768 9.05688 24.1662C7.23959 23.6556 5.66667 22.6562 4.57529 21.3186C3.48391 19.981 2.93324 18.3778 3.00632 16.7506C3.00068 15.711 3.25789 14.6825 3.76049 13.7348C3.25789 12.7872 3.00068 11.7586 3.00632 10.719C2.96111 9.10273 3.52771 7.51691 4.62252 6.19552C5.71733 4.87413 7.28236 3.88716 9.08669 3.38023C10.891 2.87329 12.8391 2.87326 14.6435 3.38012C16.4478 3.88698 18.0129 4.87388 19.1078 6.19523Z" stroke="#A5E4FF" stroke-width="4.16667" stroke-linecap="round" stroke-linejoin="round" />
+    </svg>
+    <img src="../IMG/PetitNuage.svg" alt="petit nuage">
+    <img src="../IMG/poulpy.png" alt="illustration poulpy">
+
+
   </div>
 </body>
 
