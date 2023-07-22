@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../IMG/cristian-palmer-XexawgzYOBc-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.about_us_txt{
+    background-color: #2361ad86;
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 70%;
+    padding: 3% 6%;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+}
