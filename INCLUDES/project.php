@@ -12,9 +12,9 @@
     <div class="container">
       <div class="slide-wrapper">
         <div class="slider">
-          <img src="./IMG/Site_MuseeBurton.jpg" alt="Musée Burton" class="slide-1">
-          <img src="./IMG/Site_WonderCafe.jpg" alt="Wonder Café" class="slide-2">
-          <img src="./IMG/Site_ProduitsLocaux.jpg" alt="Produits Locaux" class="slide-3">
+          <a href=""><img src="./IMG/Site_MuseeBurton.jpg" alt="Musée Burton" class="slide-1"></a>
+          <a href=""><img src="./IMG/Site_WonderCafe.jpg" alt="Wonder Café" class="slide-2"></a>
+          <a href=""><img src="./IMG/Site_ProduitsLocaux.jpg" alt="Produits Locaux" class="slide-3"></a>
         </div>
 
       </div>

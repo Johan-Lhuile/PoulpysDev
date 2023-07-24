@@ -1,4 +1,4 @@
-<section class="team">
+<section class="team" id="team">
 <div class="title">
     <h1 class="big_title">L'équipe</h1>
 </div>
@@ -54,8 +54,8 @@
 
   <div class="poulpyDream">
       <img class="nuageGroupe" src="./IMG/profile_team.png" alt="photo de groupe">
-      <img src="./IMG/icon_petit_nuage.svg" alt="petit nuage">
-      <img src="./IMG/icon_bulle.png" alt="petit nuage">
+      <img src="./IMG/icone_petit_nuage.svg" alt="petit nuage">
+      <img src="./IMG/icone_bulle.png" alt="petit nuage">
       
       <img src="./IMG/poulpy.png" alt="illustration poulpy">
   </div>

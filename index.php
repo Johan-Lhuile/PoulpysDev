@@ -18,12 +18,12 @@
 
 <body>
 
-  <section><?php include './INCLUDES/hero.php'; ?></section>
+  <?php include './INCLUDES/hero.php'; ?>
   <?php include './INCLUDES/header.php'; ?>
-  <section><?php include './INCLUDES/team.php'; ?></section>
-  <section><?php include './INCLUDES/card.php'; ?></section>
-  <section><?php include './INCLUDES/about_us.php'; ?></section>
-  <section><?php include './INCLUDES/project.php'; ?></section>
+  <?php include './INCLUDES/team.php'; ?>
+  <!-- <?php include './INCLUDES/card.php'; ?> -->
+  <?php include './INCLUDES/about_us.php'; ?>
+  <?php include './INCLUDES/project.php'; ?>
 
   <?php include './INCLUDES/footer.php'; ?>
 
