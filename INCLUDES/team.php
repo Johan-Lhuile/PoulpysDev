@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-<div class="title" id="team">
-  <h2>L'équipe</h2>
-=======
 <section class="team">
 <div class="title">
     <h1 class="big_title">L'équipe</h1>
->>>>>>> moonyCss
 </div>
 
 
