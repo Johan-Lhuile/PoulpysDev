@@ -1,12 +1,10 @@
-<div id="about_us">
 
-  <div class="title">
-    <h2>About us...</h2>
+<div class="about">
+  <div class="about_us_txt">
+    <p> Nous sommes une équipe de onze développeurs web juniors passionnés par la création de sites
+  web. Maîtrisant les langages Front-End (HTML, CSS et JavaScript), ainsi que les langages Back-End (PHP, SQL) nous
+  concevons des sites esthétiques et intuitifs. </p>
   </div>
-
-  <div class="about_us_txt">We are a team of eleven web developers who enjoy learning together and working on projects.
-    We joined the same course and since then...
-    You will find here the portfolio of each of us and our projets.
-  </div>
-
 </div>
+
+

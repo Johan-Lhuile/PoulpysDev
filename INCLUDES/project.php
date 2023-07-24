@@ -1,18 +1,22 @@
-<div id="project">
+<div class="projet" id="project">
 
-  <div class="title">
-    <h2>Discover our projects</h2>
+  <div class="projet-container">
+    <div class="projet-title">
+      <h2>Nos projets</h2>
+    </div>
+
+    <div class="projet-txt">
+      <p>Ici vous trouverez tout les projets que nous avons effectués en groupe</p>
+    </div>
+
+    <div class="container">
+      <div class="slide-wrapper">
+        <div class="slider">
+          <a href=""><img src="./IMG/Site_MuseeBurton.jpg" alt="Musée Burton" class="slide-1"></a>
+          <a href=""><img src="./IMG/Site_WonderCafe.jpg" alt="Wonder Café" class="slide-2"></a>
+          <a href=""><img src="./IMG/Site_ProduitsLocaux.jpg" alt="Produits Locaux" class="slide-3"></a>
+        </div>
+
+      </div>
+    </div>
   </div>
-
-
-
-  <div class="project_txt">
-    <p>We achieved some projects together, using the languages and tools that we learned during our Web development
-      course.
-      <br><br> We'll be happy if you give us your opinion and feedbacks.
-    </p>
-  </div>
-
-  <div class="project_img"><img src="" alt=""></div>
-
-</div>

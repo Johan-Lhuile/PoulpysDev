@@ -1,0 +1,45 @@
+.hero{
+    background-image: url(../IMG/BG_Surface_ocean.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    height: 600px;
+    color: white;
+}
+
+.hero-container{
+    text-align: center;
+    padding-top: 50%;
+    text-shadow: 5px 5px 20px rgb(0, 0, 0);
+}
+
+.hero-title{
+    font-family: 'Changa One', cursive;
+    font-size: 21px;
+    margin: 0;
+    padding: 5%;
+}
+
+.hero-text{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 13px;
+    padding: 5%;
+}
+
+.icon-arrow{
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20%;
+    opacity: 0;
+    filter: drop-shadow(10px 10px 30px rgb(255, 255, 255));
+    animation: fadeInOut 3s infinite;
+}
+
+@keyframes fadeInOut {
+    0%, 100% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+}

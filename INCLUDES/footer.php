@@ -1,3 +1,6 @@
 <footer>
-  <p> &#169 Poulpy's Dev Project &#8226 <br>Tout droits réservés</p>
+  <button><span> &#8679; </span></button>
+  <p>
+    Poulpy's Dev Project &#169 Tous droits réservés
+  </p>
 </footer>

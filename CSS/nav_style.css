@@ -1,0 +1,27 @@
+.navbar {
+    background-image: linear-gradient(to bottom, #39608E, #0453B0);
+    display: block;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    gap: 5%;
+    padding: 5%;
+    justify-content: space-around;
+    margin: 0;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+.icon{
+    width: 2.5em;
+}
