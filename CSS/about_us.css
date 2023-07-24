@@ -1,7 +1,7 @@
-body{
+.about{
     margin: 0;
     padding: 0;
-    background-image: url(../IMG/cristian-palmer-XexawgzYOBc-unsplash.jpg);
+    
     background-size: cover;
     background-repeat: no-repeat;
 }
