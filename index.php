@@ -10,6 +10,10 @@
   <link rel="stylesheet" href="./CSS/hero_style.css">
   <link rel="stylesheet" href=".//CSS/projet_style.css">
   <title>Home</title>
+  <link rel="stylesheet" href="./CSS/about_us.css">
+  <link rel="stylesheet" href="./CSS/team.css">
+  <link rel="stylesheet" href="./CSS/footer.css">
+  <link href="./CSS/team.css" rel="stylesheet">
 </head>
 
 <body>
